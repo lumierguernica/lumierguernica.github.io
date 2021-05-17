@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-31_1607",
-    "currentPage": "catalog.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,13 +49,14 @@
     "versionPublish": "5.3.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/g879-128x129.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "mbrsiteDomain": "wrj4cawdxf"
   },
   "pages": {
     "index.html": {
