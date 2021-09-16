@@ -56,9 +56,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "mbrsiteDomain": "ixlzso2mvm",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "mbrsiteDomain": "ixlzso2mvm"
   },
   "pages": {
     "index.html": {
