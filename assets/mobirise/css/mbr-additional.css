@@ -1708,7 +1708,7 @@ a {
 .cid-sy0Ri5KBQg .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1753,11 +1753,7 @@ a {
 .cid-swS9SxvrjM {
   padding-top: 2rem;
   padding-bottom: 3rem;
-  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
-}
-.cid-swS9SxvrjM .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.9;
+  background-color: #ffffff;
 }
 .cid-swS9SxvrjM img,
 .cid-swS9SxvrjM .item-img {
