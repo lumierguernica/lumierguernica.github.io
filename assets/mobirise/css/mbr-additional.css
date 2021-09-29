@@ -680,73 +680,29 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sJbCilTAMu {
-  padding-top: 6rem;
-  padding-bottom: 2rem;
-  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+.cid-swRSGtXIKL {
+  padding-top: 8rem;
+  padding-bottom: 4rem;
+  background-image: url("../../../assets/images/mbr-1920x1440.png");
 }
-.cid-sJbCilTAMu .number-wrap {
-  color: #004aad;
-  text-align: center;
+.cid-swRSGtXIKL .row {
+  align-items: center;
 }
-.cid-sJbCilTAMu .number {
-  color: #e05b18;
-}
-.cid-sJbCilTAMu .period {
-  display: block;
-}
-.cid-sJbCilTAMu .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-sJbCilTAMu .period {
-    font-size: 0.8rem;
+@media (max-width: 991px) {
+  .cid-swRSGtXIKL .image-wrapper {
+    padding: 1rem;
   }
 }
-.cid-sJbCilTAMu .btn {
-  height: 100%;
-  margin: 0;
+@media (min-width: 992px) {
+  .cid-swRSGtXIKL .text-wrapper {
+    padding: 0 2rem;
+  }
 }
-.cid-sJbCilTAMu .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-sJbCilTAMu .mbr-section-title {
-  color: #ffffff;
-}
-.cid-sJbCilTAMu .mbr-text {
-  color: #ffffff;
-}
-.cid-sJbCilTAMu .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-sJbCilTAMu .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #ff6200;
-  border: 2px solid #ff6200;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-sJbCilTAMu .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-sJbCilTAMu .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #ff6200;
-  color: #ffffff;
-}
-.cid-sJbCilTAMu H3 {
-  color: #004aad;
+.cid-swRSGtXIKL .mbr-text,
+.cid-swRSGtXIKL .mbr-section-btn {
   text-align: center;
 }
-.cid-sJbCilTAMu .mbr-text,
-.cid-sJbCilTAMu .mbr-section-btn {
-  color: #004aad;
-}
-.cid-sJbCilTAMu .mbr-section-subtitle {
+.cid-swRSGtXIKL .mbr-section-title {
   color: #004aad;
 }
 .cid-swS4vklWfl {
@@ -1096,55 +1052,6 @@ a {
     left: -1rem;
   }
 }
-.cid-sJgOFM74bs {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-sJgOFM74bs .card-wrapper {
-  display: flex;
-}
-@media (max-width: 991px) {
-  .cid-sJgOFM74bs .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-sJgOFM74bs .mbr-iconfont {
-  font-size: 2rem;
-  color: #6592e6;
-  padding-right: 1.5rem;
-}
-.cid-sJgOFM74bs .card-title {
-  text-align: left;
-}
-.cid-sJgOFM74bs .card-text {
-  text-align: center;
-}
-.cid-swRSGtXIKL {
-  padding-top: 8rem;
-  padding-bottom: 4rem;
-  background-image: url("../../../assets/images/mbr-1920x1440.png");
-}
-.cid-swRSGtXIKL .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-swRSGtXIKL .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-swRSGtXIKL .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-swRSGtXIKL .mbr-text,
-.cid-swRSGtXIKL .mbr-section-btn {
-  text-align: center;
-}
-.cid-swRSGtXIKL .mbr-section-title {
-  color: #004aad;
-}
 .cid-swScloUbiO {
   padding-top: 3rem;
   padding-bottom: 4rem;
@@ -1255,6 +1162,30 @@ a {
 .cid-swS4H6M60A .mbr-section-title {
   color: #004aad;
 }
+.cid-sJgOFM74bs {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-sJgOFM74bs .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-sJgOFM74bs .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sJgOFM74bs .mbr-iconfont {
+  font-size: 2rem;
+  color: #6592e6;
+  padding-right: 1.5rem;
+}
+.cid-sJgOFM74bs .card-title {
+  text-align: left;
+}
+.cid-sJgOFM74bs .card-text {
+  text-align: center;
+}
 .cid-swRVGROHZQ {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -1320,30 +1251,6 @@ a {
 .cid-swRUnDd3JT .mbr-section-title,
 .cid-swRUnDd3JT .social-list {
   color: #004aad;
-}
-.cid-sJd1KDEJOV {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-sJd1KDEJOV .card-wrapper {
-  display: flex;
-}
-@media (max-width: 991px) {
-  .cid-sJd1KDEJOV .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-sJd1KDEJOV .mbr-iconfont {
-  font-size: 2rem;
-  color: #6592e6;
-  padding-right: 1.5rem;
-}
-.cid-sJd1KDEJOV .card-title {
-  text-align: left;
-}
-.cid-sJd1KDEJOV .card-text {
-  text-align: center;
 }
 .cid-swS4vklWfl {
   z-index: 1000;
