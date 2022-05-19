@@ -1093,10 +1093,21 @@ a {
   text-align: center;
   color: #353535;
 }
+.cid-t6hYdZHf8a {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-t6hYdZHf8a .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-t6i0veUbrU {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-t6i0veUbrU .nav-tabs .nav-item.open .nav-link:focus,
 .cid-t6i0veUbrU .nav-tabs .nav-link.active:focus {
@@ -1139,16 +1150,66 @@ a {
 .cid-t6i0veUbrU H3 {
   text-align: center;
 }
-.cid-t6hYdZHf8a {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
+.cid-t6i8Y6D1V9 {
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  background: #fafafa;
 }
-.cid-t6hYdZHf8a .line {
+.cid-t6i8Y6D1V9 .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-t6i8Y6D1V9 .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-t6i8Y6D1V9 .card-wrap {
+  background: #ffffff;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  .cid-t6i8Y6D1V9 .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-t6i8Y6D1V9 .card-wrap .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cid-t6i8Y6D1V9 .card-wrap .content-wrap {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-t6i8Y6D1V9 .card-wrap .content-wrap {
+    padding: 1rem;
+  }
+}
+.cid-t6i8Y6D1V9 .social-row {
+  text-align: center;
+}
+.cid-t6i8Y6D1V9 .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.cid-t6i8Y6D1V9 .social-row .soc-item .mbr-iconfont {
+  transition: all 0.3s;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+}
+.cid-t6i8Y6D1V9 .social-row .soc-item:hover {
   background-color: #6592e6;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+}
+.cid-t6i8Y6D1V9 .social-row .soc-item:hover .mbr-iconfont {
+  color: #ffffff;
 }
 .cid-t6hVY9nXTM {
   padding-top: 5rem;
