@@ -1035,8 +1035,8 @@ a {
 }
 .cid-swScloUbiO {
   padding-top: 3rem;
-  padding-bottom: 4rem;
-  background-image: url("../../../assets/images/pexels-daniel-reche-3616964-2000x1333.jpeg");
+  padding-bottom: 8rem;
+  background-color: #000000;
 }
 @media (min-width: 1500px) {
   .cid-swScloUbiO .container {
@@ -1067,9 +1067,9 @@ a {
   color: #ffffff;
 }
 .cid-t6i0veUbrU {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-image: url("../../../assets/images/pexels-daniel-reche-3616965-2000x1333.jpeg");
+  padding-top: 5rem;
+  padding-bottom: 9rem;
+  background-image: url("../../../assets/images/diseo-sin-ttulo-15-1414x2000.png");
 }
 .cid-t6i0veUbrU .nav-tabs .nav-item.open .nav-link:focus,
 .cid-t6i0veUbrU .nav-tabs .nav-link.active:focus {
@@ -1118,7 +1118,7 @@ a {
 }
 .cid-t6hYdZHf8a {
   padding-top: 3rem;
-  padding-bottom: 8rem;
+  padding-bottom: 4rem;
   background-color: #000000;
 }
 .cid-t6hYdZHf8a .line {
@@ -1207,7 +1207,7 @@ a {
 .cid-swS4H6M60A {
   padding-top: 1rem;
   padding-bottom: 3rem;
-  background: #000000;
+  background: #232323;
 }
 @media (max-width: 767px) {
   .cid-swS4H6M60A .row {
@@ -1249,7 +1249,7 @@ a {
 .cid-swS4H6M60A .card-wrapper {
   display: flex;
   border-radius: 4px;
-  background: #ffffff;
+  background: #000000;
 }
 .cid-swS4H6M60A .card-wrapper:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
@@ -1276,7 +1276,7 @@ a {
   color: #004aad;
 }
 .cid-swS4H6M60A .card-title {
-  color: #000000;
+  color: #e05b18;
 }
 .cid-sQmwFOqSEr {
   padding-top: 45px;
