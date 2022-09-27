@@ -683,8 +683,6 @@ a {
 .cid-tiFYfQLht8 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-tiFYfQLht8 nav.navbar {
   position: fixed;
@@ -784,8 +782,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #000000;
+  background: rgba(0, 0, 0, 0.9);
 }
 .cid-tiFYfQLht8 .navbar.opened {
   transition: all 0.3s;
@@ -1095,7 +1092,7 @@ a {
   }
 }
 .cid-tiFMT4ffP7 {
-  padding-top: 75px;
+  padding-top: 120px;
   padding-bottom: 120px;
   background-image: url("../../../assets/images/mbr-27-1920x1280.jpg");
 }
